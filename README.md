@@ -1,2 +1,2 @@
-# Pandas
+# Data analysis - Pandas
 Pandas Tutorial
